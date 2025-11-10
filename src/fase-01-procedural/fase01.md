@@ -2,6 +2,7 @@
 
 ### Exemplo básico de implementação:
 
+```
 switch(metodoDePagamento){
     debito:
         pagamentoDebito();
@@ -16,10 +17,15 @@ switch(metodoDePagamento){
         pagamentoPaypal();
         break;
 }
+```
 
-### Fluxo: recebe o método escolhido → switch(credito) então → "pagamentoCredito".
+### Fluxo: 
+    Recebe o método escolhido → switch(credito) então
+    "pagamentoCredito".
 
-### Dores atuais: a cada novo meio de pagamento será necessário adicionar novos casos no switch.
+### Dores atuais: 
+    A cada novo meio de pagamento será necessário adicionar novos casos no switch.
 
-### Como melhorar: criar uma interface de pagamentos, aonde serão manejados todos os pagamentos, aonde esta recebe apenas o cliente e o valor da conta, terceirizando esta obrigatoriedade.
+### Como melhorar: 
+    Criar uma interface de pagamentos, aonde serão manejados todos os pagamentos, aonde esta recebe apenas o cliente e o valor da conta, terceirizando esta obrigatoriedade.
 
