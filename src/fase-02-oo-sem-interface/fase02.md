@@ -4,11 +4,13 @@ Sistema de cobrança
 ### cobranca.cs
 ```
     cobranca(double valor, bool ehInadimplente, float taxa) {
-        if (ehInadimplente)
+        if (ehInadimplente){
             valor = valor * taxa;
+        }
 
         return valor
     }
+
 ```
 
 ## Imagine o seguinte
@@ -18,4 +20,4 @@ Sistema de cobrança
     É essencial que seja testada a taxa sendo -1%, 0%, 0,1%, 100%, 101%, etc. Para assim, garantir os testes de fronteira.
 
 ### Testes de escalabilidade
-    
+    Por exemplo, testes para 100 chamadas da função por segundo, verificando a escabalidade do sistema.
