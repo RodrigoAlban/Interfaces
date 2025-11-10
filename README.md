@@ -5,4 +5,7 @@
 #### Alexssander Jose 2652480
 #### Rodrigo Alban    2353979
 
-[Fase 0](#src/fase-00-aquecimento/fase0.md)
+## Sumário
+
+- [Fase 0](#src/fase-00-aquecimento/fase0.md)
+- [Fase 1](#src/fase-01-procedural-fase01.md)
