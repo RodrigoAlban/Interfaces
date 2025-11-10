@@ -7,5 +7,5 @@
 
 ## Sumário
 
-- [Fase 0](#src/fase-00-aquecimento/fase0.md)
-- [Fase 1](#src/fase-01-procedural-fase01.md)
+- [Fase 0](src/fase-00-aquecimento/fase0.md)
+- [Fase 1](src/fase-01-procedural/fase01.md)
