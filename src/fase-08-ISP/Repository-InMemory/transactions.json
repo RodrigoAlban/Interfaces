@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Amount": 200.00,
+    "Description": "Transfer\u00EAncia PIX",
+    "Date": "2025-11-24T09:43:24.691667-03:00"
+  },
+  {
+    "Id": 3,
+    "Amount": 59.90,
+    "Description": "Pagamento d\u00E9bito",
+    "Date": "2025-11-24T10:14:39.8316238-03:00"
+  },
+  {
+    "Id": 4,
+    "Amount": 150.00,
+    "Description": "Transfer\u00EAncia PIX",
+    "Date": "2025-11-24T11:10:38.499099-03:00"
+  },
+  {
+    "Id": 5,
+    "Amount": 59.90,
+    "Description": "Pagamento d\u00E9bito",
+    "Date": "2025-11-24T11:10:38.4991201-03:00"
+  },
+  {
+    "Id": 6,
+    "Amount": 150.00,
+    "Description": "Transfer\u00EAncia PIX",
+    "Date": "2025-11-24T11:14:27.5399354-03:00"
+  },
+  {
+    "Id": 7,
+    "Amount": 59.90,
+    "Description": "Pagamento d\u00E9bito",
+    "Date": "2025-11-24T11:14:27.5399568-03:00"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6QGXFIzmRvA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\utfpr\\Documents\\GitHub\\fase07\\Interfaces\\src\\fase-08-ISP\\Repository-InMemory\\Repository-JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utfpr\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
